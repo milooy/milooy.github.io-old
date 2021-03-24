@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `진유림의 블로그`,
+    title: `유림로그`,
         description: `나는 나는 개 발자 왜 나를 시러하나`,
     author: `Yurim Jin`,
   },
