@@ -13,10 +13,12 @@ const HeaderContainer = styled("div")`
 const HeaderContent = styled("div")`
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 `
 
 const HeaderLinks = styled("div")`
-    display: grid;
+    display: flex;
+    /* display: grid;
     grid-template-columns: repeat(2, auto);
     grid-gap: 7em;
     justify-content: flex-end;
@@ -29,9 +31,10 @@ const HeaderLinks = styled("div")`
 
     @media(max-width: ${dimensions.maxwidthMobile}px) {
         grid-gap: 2.5em;
-    }
+    } */
 
     a {
+        margin-left: 2em;
         color: currentColor;
         text-decoration: none;
         border-bottom: 3px solid transparent;
@@ -87,7 +90,12 @@ const Header = () => (
                 <Link
                     activeClassName="Link--is-active"
                     to="/blog">
-                    Blog
+                    개발 이야기
+                </Link>
+                <Link
+                    activeClassName="Link--is-active"
+                    to="/blog">
+                    개발 밖 이야기
                 </Link>
             </HeaderLinks>
         </HeaderContent>
