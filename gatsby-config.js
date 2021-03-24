@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Prist | Gatsby & Prismic Starter`,
-        description: `A starter powered by Gatsby and Prismic to showcase portfolios and blogs.`,
-    author: `Marguerite Roth | marguerite.io`,
+    title: `진유림의 블로그`,
+        description: `나는 나는 개 발자 왜 나를 시러하나`,
+    author: `Yurim Jin`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -26,7 +26,7 @@ module.exports = {
     {
         resolve: 'gatsby-source-prismic-graphql',
         options: {
-            repositoryName: 'prist', // (REQUIRED, replace with your own)
+            repositoryName: 'yurimlog', // (REQUIRED, replace with your own)
             linkResolver: () => post => `/${post.uid}`,
         }
     },
