@@ -76,7 +76,7 @@ const Header = () => (
     <HeaderContainer>
         <HeaderContent>
             <Link to="/">
-                <Logo/>
+                <Logo style={{height: 60}} />
             </Link>
             <HeaderLinks>
                 <Link
