@@ -1,0 +1,110 @@
+/*
+        object-assign
+        (c) Sindre Sorhus
+        @license MIT
+        */
+
+/*! ./Component */
+
+/*! ./checkPropTypes */
+
+/*! ./cjs/react-is.development.js */
+
+/*! ./embeds */
+
+/*! ./factoryWithTypeCheckers */
+
+/*! ./lib/ReactPropTypesSecret */
+
+/*! ./richtext */
+
+/*! /Users/hvillain/Libs/prismic-reactjs/src/index.js */
+
+/*! exports provided: asText, renderRichText */
+
+/*! exports provided: createScript, embeds */
+
+/*! exports provided: default */
+
+/*! no static exports found */
+
+/*! object-assign */
+
+/*! prismic-helpers */
+
+/*! prismic-richtext */
+
+/*! prop-types */
+
+/*! react */
+
+/*! react-is */
+
+/*!**********************!*\
+        !*** ./src/index.js ***!
+        \**********************/
+
+/*!***********************!*\
+        !*** ./src/embeds.js ***!
+        \***********************/
+
+/*!************************!*\
+        !*** external "react" ***!
+        \************************/
+
+/*!*************************!*\
+        !*** ./src/richtext.js ***!
+        \*************************/
+
+/*!**************************!*\
+        !*** ./src/Component.js ***!
+        \**************************/
+
+/*!****************************!*\
+        !*** multi ./src/index.js ***!
+        \****************************/
+
+/*!****************************************!*\
+        !*** ./node_modules/react-is/index.js ***!
+        \****************************************/
+
+/*!******************************************!*\
+        !*** ./node_modules/prop-types/index.js ***!
+        \******************************************/
+
+/*!*********************************************!*\
+        !*** ./node_modules/object-assign/index.js ***!
+        \*********************************************/
+
+/*!***************************************************!*\
+        !*** ./node_modules/prop-types/checkPropTypes.js ***!
+        \***************************************************/
+
+/*!***********************************************************!*\
+        !*** ./node_modules/react-is/cjs/react-is.development.js ***!
+        \***********************************************************/
+
+/*!************************************************************!*\
+        !*** ./node_modules/prop-types/factoryWithTypeCheckers.js ***!
+        \************************************************************/
+
+/*!*************************************************************!*\
+        !*** ./node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+        \*************************************************************/
+
+/*!******************************************************************!*\
+        !*** ./node_modules/prismic-helpers/dist/prismic-helpers.min.js ***!
+        \******************************************************************/
+
+/*!********************************************************************!*\
+        !*** ./node_modules/prismic-richtext/dist/prismic-richtext.min.js ***!
+        \********************************************************************/
+
+/** @license React v16.9.0
+         * react-is.development.js
+         *
+         * Copyright (c) Facebook, Inc. and its affiliates.
+         *
+         * This source code is licensed under the MIT license found in the
+         * LICENSE file in the root directory of this source tree.
+         */
